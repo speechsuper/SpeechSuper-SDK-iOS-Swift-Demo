@@ -1,0 +1,5 @@
+SwiftDemo.xcodeproj filter=lfs diff=lfs merge=lfs -text
+SwiftDemoTests filter=lfs diff=lfs merge=lfs -text
+SwiftDemoUITests filter=lfs diff=lfs merge=lfs -text
+SwiftDemo/EvalEngine/libskegn-iphoneos.a filter=lfs diff=lfs merge=lfs -text
+SwiftDemo/EvalEngine/libskegn-iphonesimulator.a filter=lfs diff=lfs merge=lfs -text
